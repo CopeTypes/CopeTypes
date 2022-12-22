@@ -2,15 +2,6 @@
   A self-taught hobbyist programmer who enjoys new challenges
 </p>
 
-<p align="center">
-  Some things I'm working on
-</p>
-<p align="center">
-  <a href="https://github.com/CopeTypes/rgb-helper">C# Razer Chroma SDK Tool</a>
-</p>
-<p align="center">
-  <a href="https://github.com/CopeTypes/MeteorInstaller">Installer for Meteor Client</a>
-</p>
 
 
 
