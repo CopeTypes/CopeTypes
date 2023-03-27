@@ -32,3 +32,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CopeTypes" />
 </p>
+
+
+<p align="center">
+  <a href="https://github.com/GWISoftware/.github/blob/main/profile/readme.md">Other Projects</a>
+</p>
