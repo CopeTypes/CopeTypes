@@ -33,3 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CopeTypes" />
 </p>
 
+<p align="center">
+  Contact<br>Discord - ghosttypes<br>Email - notghosttypes@gmail.com<br>
+</p>
