@@ -1,5 +1,5 @@
 <p align="center">
-  A self-taught hobbyist programmer who enjoys new challenges
+  I like to code when I get bored
 </p>
 
 
@@ -33,7 +33,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CopeTypes" />
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/GWISoftware/.github/blob/main/profile/readme.md">Other Projects</a>
-</p>
