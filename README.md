@@ -1,19 +1,42 @@
 <p align="center">
-  	I like to code when I get bored
+  	An experienced programmer with a diverse skill set. 
+</p>
+
+<p align="center">
+	Currently developing software for 3D Printers and bringing new features to older (GM) cars
 </p>
 
 <p align="center">
   Skills
 </p>
+<br>
+
 <p align="center">
-  	<img src="https://skillicons.dev/icons?i=arduino,cs,dotnet,java,lua,powershell,py,raspberrypi,selenium,windows,linux,apple,androidstudio" alt="My Skills">
+  Languages
+</p>
+<p align="center">
+  	<img src="https://skillicons.dev/icons?i=cs,dotnet,java,lua,py,css,js,ts,html" alt="My Skills">
+</p>
+
+<p align="center">
+  Platforms
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,apple,windows,linux" alt="My Skills">
 </p>
 
 <p align="center">
   IDEs
 </p>
 <p align="center">
-  	<img src="https://skillicons.dev/icons?i=idea,rider,pycharm,webstorm,vscode,visualstudio" alt="My IDEs">
+  	<img src="https://skillicons.dev/icons?i=idea,rider,pycharm,webstorm,vscode,visualstudio,androidstudio" alt="My IDEs">
+</p>
+
+<p align="center">
+  Misc
+</p>
+<p align="center">
+  	<img src="https://skillicons.dev/icons?i=discord,bots,git,github,gradle,powershell,regex,selenium" alt="My IDEs">
 </p>
 
 <p align="center">
