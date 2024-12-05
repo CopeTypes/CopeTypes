@@ -4,6 +4,10 @@
 <p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=CopeTypes&theme=default&hide_border=true" alt="CopeTypes's GitHub Stats" />
 </p>
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=copetypes" alt="Profile Views" />
+</p>
+
 
 <p align="center">
 	Currently developing software for 3D Printers and bringing new features to older (GM) cars
