@@ -2,10 +2,19 @@
   	An experienced programmer with a diverse skill set. 
 </p>
 <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=CopeTypes&theme=default&hide_border=true" alt="CopeTypes's GitHub Stats" />
+	<img src="https://komarev.com/ghpvc/?username=copetypes" alt="Profile Views" />
+</p>
+
+<p align="center">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CopeTypes&theme=default" alt="CopeTypes's GitHub Stats" />
 </p>
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=copetypes" alt="Profile Views" />
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CopeTypes&theme=default" alt="CopeTypes's GitHub Stats" />
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CopeTypes&theme=default" alt="CopeTypes's GitHub Stats" />
+</p>
+<p align="center">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CopeTypes&theme=default" alt="CopeTypes's GitHub Stats" />
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CopeTypes&theme=default&utcOffset=-5" alt="CopeTypes's GitHub Stats" />
 </p>
 
 
